@@ -1,0 +1,19 @@
+.navbar {
+  font-weight: 900;
+  line-height: 20px;
+}
+
+.container-fluid{
+
+ padding: 8px 100px;
+ background-color: black;
+ margin: 12px;
+border-radius: 30px;
+}
+.navbar-brand{
+  font-size: 30px;
+  
+}
+.active{
+ color: aqua;
+}
